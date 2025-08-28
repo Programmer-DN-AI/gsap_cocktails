@@ -8,8 +8,8 @@ const navLinks = [
        title: "About Us",
     },
     {
-       id: "work",
-       title: "The Art",
+       id: "art",
+        title: "The Art",
     },
     {
        id: "contact",
