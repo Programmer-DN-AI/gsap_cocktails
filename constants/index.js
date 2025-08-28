@@ -120,17 +120,17 @@ const navLinks = [
     {
        name: "Instagram",
        icon: "/images/insta.png",
-       url: "#",
+       url: "https://instagram.com",
     },
     {
        name: "X (Twitter)",
        icon: "/images/x.png",
-       url: "#",
+       url: "https://x.com",
     },
     {
        name: "Facebook",
        icon: "/images/fb.png",
-       url: "#",
+       url: "https://facebook.com",
     },
    ];
    
